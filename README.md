@@ -21,8 +21,8 @@ A modern Python-based application for automated grading of answer sheets using O
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/answer-sheet-grader.git
-cd answer-sheet-grader
+git clone https://github.com/atik666/grading.git
+cd grading
 ```
 
 2. Create a virtual environment (recommended):
